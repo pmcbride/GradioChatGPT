@@ -19,3 +19,8 @@ ELEVEN_VOICES_DICT = {
     "Sam": "yoZ06aMxZJJ28mfd3POQ",
     "Steve": "k4lxsVEq2ClXlnUmEFd1"
 }
+
+
+AI_WORKSPACE_DIR = "./ai_workspace/"
+DEFAULT_MODEL_NAME = "gpt-3.5-turbo"
+# DEFAULT_MODEL_NAME = "gpt-4"

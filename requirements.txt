@@ -7,3 +7,9 @@ elevenlabs
 plotly
 python-dotenv
 faiss-cpu
+scipy
+playwright
+scikit-learn
+
+google-api-python-client
+pydantic
