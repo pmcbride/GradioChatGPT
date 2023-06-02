@@ -1,0 +1,9 @@
+openai
+gradio
+langchain
+tiktoken>=0.4.0
+requests
+elevenlabs
+plotly
+python-dotenv
+faiss-cpu
